@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    background-color: grey;
+}
+
+nav {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: pink;
+}
+
